@@ -3,13 +3,13 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import ElementClickInterceptedException, NoSuchElementException
 import sys
 sys.path.append('C:/Users/dfmol/Programming/arbitrage_betting/selenium_scrapers/inc')
-import functions
-from functions import open_filter_dropdown, select_filter_by_time, find_event_days, expand_day, find_daily_rows, interpret_daily_row, collect_data, save_data
+import sunbet_functions
+from sunbet_functions import open_filter_dropdown, select_filter_by_time, find_event_days, expand_day, find_daily_rows, interpret_daily_row, collect_data, save_data
 import time, datetime
 
 web = 'https://www.sunbet.co.za/#filter/tennis'
 path = 'C:/Users/dfmol/Programming/arbitrage_betting/selenium_scrapers/chromedriver_win32/chromedriver.exe'
-
+dt_format = '%d-%m-%Y %H:%M'
 
 def main():
     # initiate scraper
@@ -31,14 +31,14 @@ def main():
                 clicked = interpret_daily_row(count, daily_rows)
                 if clicked:
                     # element has been clicked
-                    print("Click")
                     loop = True # need to start loop again, because daily_rows have changed
                     break
                 else:
-                    print("No Click")
+                    # element has not been clicked
+                    pass
     time.sleep(1)
     print("Collecting Data...")
-    match_list = collect_data(upcoming_days)
+    match_list = collect_data(upcoming_days, dt_format)
     save_data(match_list)
 
     # driver.quit()

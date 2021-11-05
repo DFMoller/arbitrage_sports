@@ -80,12 +80,13 @@ def interpret_daily_row(count, rows):
         return False
 
 
-def collect_data(upcoming_days):
+def collect_data(upcoming_days, dt_format):
     return_list = []
     for day in upcoming_days:
         daily_rows = find_daily_rows(day)
         date_str = day.find_element(By.CLASS_NAME, 'CollapsibleContainer__LabelDetails-sc-14bpk80-8').text + "2021"
-        dt_obj = datetime.datetime.strptime(date_str, '%d %B %Y')
+        if date_str[1] == ' ':
+            date_str = f'0{date_str}'
         tournament = ''
         for count, row in enumerate(daily_rows):
             element_class = row.get_attribute("class")
@@ -94,6 +95,15 @@ def collect_data(upcoming_days):
             elif "KambiBC-list-view__event-list" in element_class: # This element is a ul containing data
                 matches = row.find_elements(By.CLASS_NAME, 'KambiBC-event-item--sport-TENNIS')
                 for match in matches:
+                    try:
+                        time = match.find_element(By.CLASS_NAME, 'KambiBC-event-item__start-time--time').text
+                        dt_str = f'{date_str} {time}'
+                        dt_obj = datetime.datetime.strptime(dt_str, '%d %B %Y %H:%M')
+                    except NoSuchElementException as err:
+                        dt_str = date_str
+                        dt_obj = datetime.datetime.strptime(dt_str, '%d %B %Y')
+                        # print("Live")
+                    dt_str = dt_obj.strftime(dt_format)
                     link = match.find_element(By.CLASS_NAME, 'KambiBC-event-item__link').get_attribute('href')
                     names = match.find_elements(By.CLASS_NAME, 'KambiBC-event-participants__name')
                     # print(f'{names[0].text} vs {names[1].text}')
@@ -116,7 +126,8 @@ def collect_data(upcoming_days):
                     }
                     node = {
                         'sport': 'tennis',
-                        'date': date_str,
+                        'date_time': dt_str,
+                        'date_time_format': dt_format,
                         'players': [player_a, player_b],
                         'site': 'sunbet',
                         'tournament': tournament,
