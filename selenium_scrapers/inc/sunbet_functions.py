@@ -140,5 +140,5 @@ def save_data(match_list):
     # with open('results.csv', 'w') as csv_file:
     #     writer = csv.writer(csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
     #     writer.writerow(['Player A', 'Odds A', 'Player B', 'Odds B'])
-    with open('results.json', 'w') as json_file:
+    with open('selenium_scrapers/data/sunbet-results.json', 'w') as json_file:
         json.dump(match_list, json_file)
