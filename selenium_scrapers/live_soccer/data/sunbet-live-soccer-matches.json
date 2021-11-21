@@ -1,0 +1,694 @@
+{
+    "matches": [
+        {
+            "teamA_name": "Maritzburg United",
+            "teamB_name": "Kaizer Chiefs",
+            "link": "https://www.sunbet.co.za/#event/live/1007946130",
+            "odds": {
+                "oddsA": "3.90",
+                "odds_draw": "2.40",
+                "oddsB": "2.45"
+            }
+        },
+        {
+            "teamA_name": "Sturm Graz",
+            "teamB_name": "LASK Linz",
+            "link": "https://www.sunbet.co.za/#event/live/1007755376",
+            "odds": {
+                "oddsA": "3.40",
+                "odds_draw": "1.53",
+                "oddsB": "8.00"
+            }
+        },
+        {
+            "teamA_name": "Al Riffa",
+            "teamB_name": "Al Hala",
+            "link": "https://www.sunbet.co.za/#event/live/1007965083",
+            "odds": {
+                "oddsA": "1.56",
+                "odds_draw": "3.55",
+                "oddsB": "6.40"
+            }
+        },
+        {
+            "teamA_name": "KV Oostende",
+            "teamB_name": "Union Saint-Gilloise",
+            "link": "https://www.sunbet.co.za/#event/live/1007710760",
+            "odds": {
+                "oddsA": "13.00",
+                "odds_draw": "6.50",
+                "oddsB": "1.20"
+            }
+        },
+        {
+            "teamA_name": "FC Puntarenas",
+            "teamB_name": "AD Municipal Santa Ana",
+            "link": "https://www.sunbet.co.za/#event/live/1018231605",
+            "odds": {
+                "oddsA": "2.10",
+                "odds_draw": "2.75",
+                "oddsB": "4.20"
+            }
+        },
+        {
+            "teamA_name": "Municipal Grecia",
+            "teamB_name": "Guadalupe",
+            "link": "https://www.sunbet.co.za/#event/live/1007815062",
+            "odds": {
+                "oddsA": "2.05",
+                "odds_draw": "2.85",
+                "oddsB": "3.90"
+            }
+        },
+        {
+            "teamA_name": "Rijeka",
+            "teamB_name": "Hajduk Split",
+            "link": "https://www.sunbet.co.za/#event/live/1007716813",
+            "odds": {
+                "oddsA": "9.00",
+                "odds_draw": "3.75",
+                "oddsB": "1.38"
+            }
+        },
+        {
+            "teamA_name": "Doxa Katokopias",
+            "teamB_name": "AEL Limassol",
+            "link": "https://www.sunbet.co.za/#event/live/1007839775",
+            "odds": {
+                "oddsA": null,
+                "odds_draw": null,
+                "oddsB": null
+            }
+        },
+        {
+            "teamA_name": "Slavia Praha",
+            "teamB_name": "FK Baumit Jablonec",
+            "link": "https://www.sunbet.co.za/#event/live/1007734531",
+            "odds": {
+                "oddsA": null,
+                "odds_draw": null,
+                "oddsB": null
+            }
+        },
+        {
+            "teamA_name": "FC Midtjylland",
+            "teamB_name": "Br\u00f8ndby IF",
+            "link": "https://www.sunbet.co.za/#event/live/1007688172",
+            "odds": {
+                "oddsA": "2.20",
+                "odds_draw": "2.70",
+                "oddsB": "4.40"
+            }
+        },
+        {
+            "teamA_name": "Tottenham",
+            "teamB_name": "Leeds United",
+            "link": "https://www.sunbet.co.za/#event/live/1007732586",
+            "odds": {
+                "oddsA": "4.80",
+                "odds_draw": "3.20",
+                "oddsB": "1.86"
+            }
+        },
+        {
+            "teamA_name": "Maardu Linnameeskond",
+            "teamB_name": "JK Tallinna Kalev",
+            "link": "https://www.sunbet.co.za/#event/live/1018223707",
+            "odds": {
+                "oddsA": "1.21",
+                "odds_draw": "4.60",
+                "oddsB": "23.00"
+            }
+        },
+        {
+            "teamA_name": "Clermont",
+            "teamB_name": "Nice",
+            "link": "https://www.sunbet.co.za/#event/live/1007766851",
+            "odds": {
+                "oddsA": "5.60",
+                "odds_draw": "1.52",
+                "oddsB": "4.25"
+            }
+        },
+        {
+            "teamA_name": "Mainz 05",
+            "teamB_name": "1. FC K\u00f6ln",
+            "link": "https://www.sunbet.co.za/#event/live/1007766267",
+            "odds": {
+                "oddsA": "2.70",
+                "odds_draw": "2.70",
+                "oddsB": "3.20"
+            }
+        },
+        {
+            "teamA_name": "Bayer Leverkusen (W)",
+            "teamB_name": "1. FFC Frankfurt (W)",
+            "link": "https://www.sunbet.co.za/#event/live/1007863879",
+            "odds": {
+                "oddsA": "9.00",
+                "odds_draw": "5.10",
+                "oddsB": "1.29"
+            }
+        },
+        {
+            "teamA_name": "VfL Wolfsburg (W)",
+            "teamB_name": "SG Essen-Sch\u00f6nebeck (W)",
+            "link": "https://www.sunbet.co.za/#event/live/1007863877",
+            "odds": {
+                "oddsA": "1.06",
+                "odds_draw": "13.00",
+                "oddsB": "31.00"
+            }
+        },
+        {
+            "teamA_name": "1. FC K\u00f6ln II",
+            "teamB_name": "Fortuna D\u00fcsseldorf II",
+            "link": "https://www.sunbet.co.za/#event/live/1007830729",
+            "odds": {
+                "oddsA": "1.35",
+                "odds_draw": "4.50",
+                "oddsB": "7.50"
+            }
+        },
+        {
+            "teamA_name": "Sportfreunde Lotte",
+            "teamB_name": "SV 1919 Straelen",
+            "link": "https://www.sunbet.co.za/#event/live/1007830732",
+            "odds": {
+                "oddsA": null,
+                "odds_draw": null,
+                "oddsB": null
+            }
+        },
+        {
+            "teamA_name": "Glacis United FC",
+            "teamB_name": "Lincoln Red IMPS FC",
+            "link": "https://www.sunbet.co.za/#event/live/1007916969",
+            "odds": {
+                "oddsA": "9.00",
+                "odds_draw": "6.50",
+                "oddsB": "1.21"
+            }
+        },
+        {
+            "teamA_name": "AEK Athens",
+            "teamB_name": "Olympiakos Piraeus",
+            "link": "https://www.sunbet.co.za/#event/live/1007946770",
+            "odds": {
+                "oddsA": "6.75",
+                "odds_draw": "3.95",
+                "oddsB": "1.48"
+            }
+        },
+        {
+            "teamA_name": "Atromitos Athens",
+            "teamB_name": "PAOK Thessaloniki",
+            "link": "https://www.sunbet.co.za/#event/live/1007946768",
+            "odds": {
+                "oddsA": "6.00",
+                "odds_draw": "3.80",
+                "oddsB": "1.55"
+            }
+        },
+        {
+            "teamA_name": "Ferencv\u00e1ros",
+            "teamB_name": "MOL Feh\u00e9rv\u00e1r",
+            "link": "https://www.sunbet.co.za/#event/live/1007738684",
+            "odds": {
+                "oddsA": "1.05",
+                "odds_draw": "11.50",
+                "oddsB": "41.00"
+            }
+        },
+        {
+            "teamA_name": "Di\u00f3sgy\u0151ri VTK",
+            "teamB_name": "Buda\u00f6rsi SC",
+            "link": "https://www.sunbet.co.za/#event/live/1007814481",
+            "odds": {
+                "oddsA": null,
+                "odds_draw": null,
+                "oddsB": null
+            }
+        },
+        {
+            "teamA_name": "P\u00e9csi MFC",
+            "teamB_name": "III Keruleti TVE",
+            "link": "https://www.sunbet.co.za/#event/live/1007814477",
+            "odds": {
+                "oddsA": "5.30",
+                "odds_draw": "1.23",
+                "oddsB": "9.00"
+            }
+        },
+        {
+            "teamA_name": "Inter",
+            "teamB_name": "Napoli",
+            "link": "https://www.sunbet.co.za/#event/live/1007841549",
+            "odds": {
+                "oddsA": "2.38",
+                "odds_draw": "2.80",
+                "oddsB": "3.55"
+            }
+        },
+        {
+            "teamA_name": "Pistoiese",
+            "teamB_name": "Virtus Entella",
+            "link": "https://www.sunbet.co.za/#event/live/1007950666",
+            "odds": {
+                "oddsA": "4.30",
+                "odds_draw": "2.04",
+                "oddsB": "2.65"
+            }
+        },
+        {
+            "teamA_name": "Pontedera",
+            "teamB_name": "Pescara",
+            "link": "https://www.sunbet.co.za/#event/live/1007950673",
+            "odds": {
+                "oddsA": "1.58",
+                "odds_draw": "3.30",
+                "oddsB": "6.75"
+            }
+        },
+        {
+            "teamA_name": "Potenza",
+            "teamB_name": "Monopoli",
+            "link": "https://www.sunbet.co.za/#event/live/1007950690",
+            "odds": {
+                "oddsA": "3.55",
+                "odds_draw": "2.12",
+                "oddsB": "3.05"
+            }
+        },
+        {
+            "teamA_name": "OCK Khouribga",
+            "teamB_name": "Youssoufia Berrechid",
+            "link": "https://www.sunbet.co.za/#event/live/1018216393",
+            "odds": {
+                "oddsA": "1.08",
+                "odds_draw": "9.00",
+                "oddsB": "26.00"
+            }
+        },
+        {
+            "teamA_name": "Bod\u00f8/Glimt",
+            "teamB_name": "Lillestr\u00f8m",
+            "link": "https://www.sunbet.co.za/#event/live/1018219312",
+            "odds": {
+                "oddsA": null,
+                "odds_draw": null,
+                "oddsB": null
+            }
+        },
+        {
+            "teamA_name": "Sandefjord Fotball",
+            "teamB_name": "Brann",
+            "link": "https://www.sunbet.co.za/#event/live/1018219314",
+            "odds": {
+                "oddsA": "1.23",
+                "odds_draw": "5.10",
+                "oddsB": "30.00"
+            }
+        },
+        {
+            "teamA_name": "Sarpsborg 08",
+            "teamB_name": "Odds Ballklubb",
+            "link": "https://www.sunbet.co.za/#event/live/1018219313",
+            "odds": {
+                "oddsA": "1.09",
+                "odds_draw": "9.00",
+                "oddsB": "67.00"
+            }
+        },
+        {
+            "teamA_name": "Stab\u00e6k",
+            "teamB_name": "Kristiansund BK",
+            "link": "https://www.sunbet.co.za/#event/live/1018219309",
+            "odds": {
+                "oddsA": null,
+                "odds_draw": null,
+                "oddsB": null
+            }
+        },
+        {
+            "teamA_name": "V\u00e5lerenga",
+            "teamB_name": "Troms\u00f8",
+            "link": "https://www.sunbet.co.za/#event/live/1018219310",
+            "odds": {
+                "oddsA": "4.50",
+                "odds_draw": "1.41",
+                "oddsB": "8.00"
+            }
+        },
+        {
+            "teamA_name": "Al-Ahli Sedab (OMN)",
+            "teamB_name": "Al-Khaboora",
+            "link": "https://www.sunbet.co.za/#event/live/1018252223",
+            "odds": {
+                "oddsA": "36.00",
+                "odds_draw": "5.50",
+                "oddsB": "1.16"
+            }
+        },
+        {
+            "teamA_name": "G\u00f3rnik Zabrze",
+            "teamB_name": "Legia Warszawa",
+            "link": "https://www.sunbet.co.za/#event/live/1007750299",
+            "odds": {
+                "oddsA": "1.08",
+                "odds_draw": "9.50",
+                "oddsB": "25.00"
+            }
+        },
+        {
+            "teamA_name": "Chrobry G\u0142og\u00f3w",
+            "teamB_name": "Stomil Olsztyn",
+            "link": "https://www.sunbet.co.za/#event/live/1007792925",
+            "odds": {
+                "oddsA": null,
+                "odds_draw": null,
+                "oddsB": null
+            }
+        },
+        {
+            "teamA_name": "Arka Gdynia II",
+            "teamB_name": "GKS Kowale",
+            "link": "https://www.sunbet.co.za/#event/live/1018244840",
+            "odds": {
+                "oddsA": null,
+                "odds_draw": null,
+                "oddsB": null
+            }
+        },
+        {
+            "teamA_name": "Moreirense",
+            "teamB_name": "Vitoria Guimar\u00e3es",
+            "link": "https://www.sunbet.co.za/#event/live/1008182117",
+            "odds": {
+                "oddsA": "1.18",
+                "odds_draw": "5.80",
+                "oddsB": "15.00"
+            }
+        },
+        {
+            "teamA_name": "GD Fontinhas",
+            "teamB_name": "Marinhense",
+            "link": "https://www.sunbet.co.za/#event/live/1008115205",
+            "odds": {
+                "oddsA": null,
+                "odds_draw": null,
+                "oddsB": null
+            }
+        },
+        {
+            "teamA_name": "FC Arge\u015f",
+            "teamB_name": "Universitatea Craiova",
+            "link": "https://www.sunbet.co.za/#event/live/1007782035",
+            "odds": {
+                "oddsA": null,
+                "odds_draw": null,
+                "oddsB": null
+            }
+        },
+        {
+            "teamA_name": "FK Sochi",
+            "teamB_name": "Rubin Kazan",
+            "link": "https://www.sunbet.co.za/#event/live/1007732855",
+            "odds": {
+                "oddsA": null,
+                "odds_draw": null,
+                "oddsB": null
+            }
+        },
+        {
+            "teamA_name": "Rangers FC",
+            "teamB_name": "Hibernian",
+            "link": "https://www.sunbet.co.za/#event/live/1008171291",
+            "odds": {
+                "oddsA": "71.00",
+                "odds_draw": "12.50",
+                "oddsB": "1.05"
+            }
+        },
+        {
+            "teamA_name": "Hamilton Academical (W)",
+            "teamB_name": "Heart of Midlothian (W)",
+            "link": "https://www.sunbet.co.za/#event/live/1007907455",
+            "odds": {
+                "oddsA": "7.50",
+                "odds_draw": "1.37",
+                "oddsB": "4.75"
+            }
+        },
+        {
+            "teamA_name": "Zempl\u00edn Michalovce",
+            "teamB_name": "Slovan Bratislava",
+            "link": "https://www.sunbet.co.za/#event/live/1007713775",
+            "odds": {
+                "oddsA": "61.00",
+                "odds_draw": "7.50",
+                "oddsB": "1.09"
+            }
+        },
+        {
+            "teamA_name": "Maribor",
+            "teamB_name": "Aluminij",
+            "link": "https://www.sunbet.co.za/#event/live/1007804606",
+            "odds": {
+                "oddsA": "1.09",
+                "odds_draw": "8.00",
+                "oddsB": "41.00"
+            }
+        },
+        {
+            "teamA_name": "Elche",
+            "teamB_name": "Real Betis",
+            "link": "https://www.sunbet.co.za/#event/live/1007785527",
+            "odds": {
+                "oddsA": "3.30",
+                "odds_draw": "3.10",
+                "oddsB": "2.33"
+            }
+        },
+        {
+            "teamA_name": "Huesca",
+            "teamB_name": "UD Ibiza",
+            "link": "https://www.sunbet.co.za/#event/live/1007786687",
+            "odds": {
+                "oddsA": "2.35",
+                "odds_draw": "2.55",
+                "oddsB": "4.00"
+            }
+        },
+        {
+            "teamA_name": "Tenerife",
+            "teamB_name": "Alcorc\u00f3n",
+            "link": "https://www.sunbet.co.za/#event/live/1007786681",
+            "odds": {
+                "oddsA": null,
+                "odds_draw": null,
+                "oddsB": null
+            }
+        },
+        {
+            "teamA_name": "Zamora CF",
+            "teamB_name": "Racing Santander",
+            "link": "https://www.sunbet.co.za/#event/live/1008048002",
+            "odds": {
+                "oddsA": null,
+                "odds_draw": null,
+                "oddsB": null
+            }
+        },
+        {
+            "teamA_name": "Albacete Balompi\u00e9",
+            "teamB_name": "FC Barcelona B",
+            "link": "https://www.sunbet.co.za/#event/live/1008048021",
+            "odds": {
+                "oddsA": null,
+                "odds_draw": null,
+                "oddsB": null
+            }
+        },
+        {
+            "teamA_name": "Algeciras CF",
+            "teamB_name": "Gimn\u00e0stic de Tarragona",
+            "link": "https://www.sunbet.co.za/#event/live/1008048020",
+            "odds": {
+                "oddsA": "8.00",
+                "odds_draw": "1.15",
+                "oddsB": "9.50"
+            }
+        },
+        {
+            "teamA_name": "Arosa SC",
+            "teamB_name": "Salamanca CF UDS",
+            "link": "https://www.sunbet.co.za/#event/live/1008048555",
+            "odds": {
+                "oddsA": "1.12",
+                "odds_draw": "6.10",
+                "oddsB": "46.00"
+            }
+        },
+        {
+            "teamA_name": "Club Marino de Luanco",
+            "teamB_name": "CD Palencia Cristo Atl\u00e9tico",
+            "link": "https://www.sunbet.co.za/#event/live/1018245394",
+            "odds": {
+                "oddsA": null,
+                "odds_draw": null,
+                "oddsB": null
+            }
+        },
+        {
+            "teamA_name": "Arenas Club de Getxo",
+            "teamB_name": "Real Sociedad C",
+            "link": "https://www.sunbet.co.za/#event/live/1008049195",
+            "odds": {
+                "oddsA": "26.00",
+                "odds_draw": "5.60",
+                "oddsB": "1.16"
+            }
+        },
+        {
+            "teamA_name": "Racing Rioja CF",
+            "teamB_name": "CD Tropezon",
+            "link": "https://www.sunbet.co.za/#event/live/1008049193",
+            "odds": {
+                "oddsA": null,
+                "odds_draw": null,
+                "oddsB": null
+            }
+        },
+        {
+            "teamA_name": "Lleida Esportiu",
+            "teamB_name": "FC Terrassa",
+            "link": "https://www.sunbet.co.za/#event/live/1008049180",
+            "odds": {
+                "oddsA": "23.00",
+                "odds_draw": "5.50",
+                "oddsB": "1.15"
+            }
+        },
+        {
+            "teamA_name": "SD Tarazona",
+            "teamB_name": "Huesca B",
+            "link": "https://www.sunbet.co.za/#event/live/1008049183",
+            "odds": {
+                "oddsA": "1.07",
+                "odds_draw": "9.50",
+                "oddsB": "56.00"
+            }
+        },
+        {
+            "teamA_name": "Teruel",
+            "teamB_name": "SD Ejea",
+            "link": "https://www.sunbet.co.za/#event/live/1008049182",
+            "odds": {
+                "oddsA": "1.09",
+                "odds_draw": "7.50",
+                "oddsB": "61.00"
+            }
+        },
+        {
+            "teamA_name": "CF La Nuc\u00eda",
+            "teamB_name": "\u00c1guilas FC",
+            "link": "https://www.sunbet.co.za/#event/live/1008049163",
+            "odds": {
+                "oddsA": null,
+                "odds_draw": null,
+                "oddsB": null
+            }
+        },
+        {
+            "teamA_name": "Arandina CF",
+            "teamB_name": "CD La Virgen del Camino",
+            "link": "https://www.sunbet.co.za/#event/live/1007978296",
+            "odds": {
+                "oddsA": "1.06",
+                "odds_draw": "9.00",
+                "oddsB": "81.00"
+            }
+        },
+        {
+            "teamA_name": "Espanyol (W)",
+            "teamB_name": "FC Levante Las Planas (W)",
+            "link": "https://www.sunbet.co.za/#event/live/1018248219",
+            "odds": {
+                "oddsA": "17.00",
+                "odds_draw": "7.50",
+                "oddsB": "1.12"
+            }
+        },
+        {
+            "teamA_name": "IK Sirius FK",
+            "teamB_name": "IFK G\u00f6teborg",
+            "link": "https://www.sunbet.co.za/#event/live/1007835903",
+            "odds": {
+                "oddsA": "2.85",
+                "odds_draw": "2.48",
+                "oddsB": "3.25"
+            }
+        },
+        {
+            "teamA_name": "Varbergs BoIS",
+            "teamB_name": "AIK",
+            "link": "https://www.sunbet.co.za/#event/live/1007835905",
+            "odds": {
+                "oddsA": "5.75",
+                "odds_draw": "2.23",
+                "oddsB": "2.30"
+            }
+        },
+        {
+            "teamA_name": "Galatasaray A.\u015e.",
+            "teamB_name": "Fenerbah\u00e7e",
+            "link": "https://www.sunbet.co.za/#event/live/1007838017",
+            "odds": {
+                "oddsA": null,
+                "odds_draw": null,
+                "oddsB": null
+            }
+        },
+        {
+            "teamA_name": "Adanaspor A.\u015e.",
+            "teamB_name": "Ankarag\u00fcc\u00fc",
+            "link": "https://www.sunbet.co.za/#event/live/1007846873",
+            "odds": {
+                "oddsA": "1.19",
+                "odds_draw": "4.80",
+                "oddsB": "26.00"
+            }
+        },
+        {
+            "teamA_name": "Manisa B\u00fcy\u00fck\u015fehir Belediyespor",
+            "teamB_name": "Altinordu",
+            "link": "https://www.sunbet.co.za/#event/live/1007846872",
+            "odds": {
+                "oddsA": "1.03",
+                "odds_draw": "13.00",
+                "oddsB": "126.0"
+            }
+        },
+        {
+            "teamA_name": "Desna Chernihiv",
+            "teamB_name": "Kolos Kovalivka",
+            "link": "https://www.sunbet.co.za/#event/live/1007733745",
+            "odds": {
+                "oddsA": "2.23",
+                "odds_draw": "3.10",
+                "oddsB": "3.25"
+            }
+        },
+        {
+            "teamA_name": "Al Nasr (UAE)",
+            "teamB_name": "Shabab Al Ahli Dubai",
+            "link": "https://www.sunbet.co.za/#event/live/1007821495",
+            "odds": {
+                "oddsA": "19.00",
+                "odds_draw": "5.60",
+                "oddsB": "1.17"
+            }
+        }
+    ]
+}

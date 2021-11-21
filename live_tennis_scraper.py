@@ -3,10 +3,9 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import ElementClickInterceptedException, NoSuchElementException, StaleElementReferenceException
 import sys, json, threading, time
 sys.path.append('C:/Users/dfmol/Programming/arbitrage_betting/selenium_scrapers/live_tennis')
-sys.path.append('C:/Users/dfmol/Programming/arbitrage_betting/dash')
-import sunbet_live, sportingbet_live, dynamic
-from sunbet_live import init_live_sunbet, read_live_sunbet
-from sportingbet_live import init_live_sportingbet, read_live_sportingbet
+import sunbet_live_tennis, sportingbet_live_tennis
+from sunbet_live_tennis import init_live_sunbet, read_live_sunbet
+from sportingbet_live_tennis import init_live_sportingbet, read_live_sportingbet
 
 
 sunbet_url = 'https://www.sunbet.co.za/#filter/tennis'
@@ -105,7 +104,7 @@ def main(driver, box, events):
                         }
                     })
                     num_pairs += 1
-        with open("out/matched_games.json", 'w') as json_outfile:
+        with open("out/matched_live_tennis_games.json", 'w') as json_outfile:
             json.dump(out_data, json_outfile)
                     
 
@@ -113,14 +112,6 @@ def main(driver, box, events):
     # print(f'Sportingbet Matches: {sportingbet_stats["num_matches"]}')
     # print(f'Number of matches paired: {num_pairs}')
 
-def display_arbitrage():
-    # while True:
-    #     time.sleep(3)
-    #     print("Threading...")
-    pass
-
 if __name__ == "__main__":
-    x = threading.Thread(target=display_arbitrage)
-    x.start()
     driver, box, events = init_browser()
     main(driver, box, events)

@@ -14,7 +14,7 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
-with open("out/matched_games.json", "r") as infile:
+with open("out/matched_live_tennis_games.json", "r") as infile:
     matched_games = json.load(infile)
 
 app.layout = html.Div([
@@ -48,7 +48,7 @@ app.layout = html.Div([
 @app.callback(Output(component_id='box', component_property='children'),
               Input('interval-component', 'n_intervals'))
 def update_table(n):
-    with open("out/matched_games.json", "r") as infile:
+    with open("out/matched_live_tennis_games.json", "r") as infile:
         matched_games = json.load(infile)
     return [
         html.Table([

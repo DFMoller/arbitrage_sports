@@ -31,7 +31,7 @@ def scrape_sportingbet():
         time.sleep(1)
         try:
             while True:
-                time.sleep(1)
+                time.sleep(3)
                 try:
                     driver.find_element(By.CLASS_NAME, 'grid-footer').click()
                     print("More Matches clicked!")
