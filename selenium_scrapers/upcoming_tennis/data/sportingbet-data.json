@@ -1,0 +1,2867 @@
+{
+    "statistics": {
+        "num_matches": 130
+    },
+    "matches": [
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 15:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP MASTERS PARIS (FRA) - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/novak-djokovic-srb-daniil-medvedev-rus-12254242",
+            "players": [
+                {
+                    "namestring": "Novak Djokovic",
+                    "lastname": "Djokovic",
+                    "names": "Novak",
+                    "odds": "2.05"
+                },
+                {
+                    "namestring": "Daniil Medvedev",
+                    "lastname": "Medvedev",
+                    "names": "Daniil",
+                    "odds": "1.80"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 16:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP STOCKHOLM (SWE) - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/leo-borg-swe-tommy-paul-usa-12248720",
+            "players": [
+                {
+                    "namestring": "Leo Borg",
+                    "lastname": "Borg",
+                    "names": "Leo",
+                    "odds": "19.50"
+                },
+                {
+                    "namestring": "Tommy Paul",
+                    "lastname": "Paul",
+                    "names": "Tommy",
+                    "odds": "1.01"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 18:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP STOCKHOLM (SWE) - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/marton-fucsovics-hun-adrian-mannarino-fra-12248726",
+            "players": [
+                {
+                    "namestring": "Marton Fucsovics",
+                    "lastname": "Fucsovics",
+                    "names": "Marton",
+                    "odds": "1.44"
+                },
+                {
+                    "namestring": "Adrian Mannarino",
+                    "lastname": "Mannarino",
+                    "names": "Adrian",
+                    "odds": "2.75"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 20:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP STOCKHOLM (SWE) - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/alejandro-davidovich-fokina-esp-mackenzie-mcdona-12248721",
+            "players": [
+                {
+                    "namestring": "Alejandro Davidovich Fokina",
+                    "lastname": "Davidovich",
+                    "names": "Alejandro",
+                    "odds": "1.95"
+                },
+                {
+                    "namestring": "Mackenzie McDonald",
+                    "lastname": "McDonald",
+                    "names": "Mackenzie",
+                    "odds": "1.83"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP STOCKHOLM (SWE) - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/pedro-martinez-esp-emil-ruusuvuori-fin-12248722",
+            "players": [
+                {
+                    "namestring": "Pedro Martinez",
+                    "lastname": "Martinez",
+                    "names": "Pedro",
+                    "odds": "2.90"
+                },
+                {
+                    "namestring": "Emil Ruusuvuori",
+                    "lastname": "Ruusuvuori",
+                    "names": "Emil",
+                    "odds": "1.40"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP STOCKHOLM (SWE) - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/elias-ymer-swe-frances-tiafoe-usa-12248723",
+            "players": [
+                {
+                    "namestring": "Elias Ymer",
+                    "lastname": "Ymer",
+                    "names": "Elias",
+                    "odds": "4.10"
+                },
+                {
+                    "namestring": "Frances Tiafoe",
+                    "lastname": "Tiafoe",
+                    "names": "Frances",
+                    "odds": "1.22"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP STOCKHOLM (SWE) - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/alexander-bublik-kaz-arthur-rinderknech-fra-12248724",
+            "players": [
+                {
+                    "namestring": "Alexander Bublik",
+                    "lastname": "Bublik",
+                    "names": "Alexander",
+                    "odds": "2.05"
+                },
+                {
+                    "namestring": "Arthur Rinderknech",
+                    "lastname": "Rinderknech",
+                    "names": "Arthur",
+                    "odds": "1.75"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP STOCKHOLM (SWE) - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/peter-gojowczyk-ger-marcos-giron-usa-12248725",
+            "players": [
+                {
+                    "namestring": "Peter Gojowczyk",
+                    "lastname": "Gojowczyk",
+                    "names": "Peter",
+                    "odds": "2.45"
+                },
+                {
+                    "namestring": "Marcos Giron",
+                    "lastname": "Giron",
+                    "names": "Marcos",
+                    "odds": "1.53"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP STOCKHOLM (SWE) - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/botic-van-de-zandschulp-ned-jordan-thompson-aus-12248727",
+            "players": [
+                {
+                    "namestring": "Botic Van de Zandschulp",
+                    "lastname": "Van",
+                    "names": "Botic",
+                    "odds": "1.19"
+                },
+                {
+                    "namestring": "Jordan Thompson",
+                    "lastname": "Thompson",
+                    "names": "Jordan",
+                    "odds": "4.50"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP STOCKHOLM (SWE) - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/roberto-carballes-baena-esp-filip-krajinovic-srb-12248728",
+            "players": [
+                {
+                    "namestring": "Roberto Carballes Baena",
+                    "lastname": "Carballes",
+                    "names": "Roberto",
+                    "odds": "3.20"
+                },
+                {
+                    "namestring": "Filip Krajinovic",
+                    "lastname": "Krajinovic",
+                    "names": "Filip",
+                    "odds": "1.34"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 14:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP STOCKHOLM (SWE) - QUALIFICATION - HARD - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/adrian-menendez-maceiras-esp-viktor-durasovic-no-12254603",
+            "players": [
+                {
+                    "namestring": "Adrian Menendez-Maceiras",
+                    "lastname": "Menendez-Maceiras",
+                    "names": "Adrian",
+                    "odds": "2.20"
+                },
+                {
+                    "namestring": "Viktor Durasovic",
+                    "lastname": "Durasovic",
+                    "names": "Viktor",
+                    "odds": "1.62"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 14:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP STOCKHOLM (SWE) - QUALIFICATION - HARD - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/egor-gerasimov-blr-pavel-kotov-rus-12254604",
+            "players": [
+                {
+                    "namestring": "Egor Gerasimov",
+                    "lastname": "Gerasimov",
+                    "names": "Egor",
+                    "odds": "1.36"
+                },
+                {
+                    "namestring": "Pavel Kotov",
+                    "lastname": "Kotov",
+                    "names": "Pavel",
+                    "odds": "2.95"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP STOCKHOLM (SWE), DOUBLES - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/i-dodig-m-melo-s-gonzalez-a-molteni-12251856",
+            "players": [
+                {
+                    "namestring": "I. Dodig/M. Melo",
+                    "lastname": "Dodig/M.",
+                    "names": "I.",
+                    "odds": "1.50"
+                },
+                {
+                    "namestring": "S. Gonzalez/A. Molteni",
+                    "lastname": "Gonzalez/A.",
+                    "names": "S.",
+                    "odds": "2.40"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP STOCKHOLM (SWE), DOUBLES - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/m-giron-m-mcdonald-a-goransson-r-lindstedt-12251857",
+            "players": [
+                {
+                    "namestring": "M. Giron/M. Mcdonald",
+                    "lastname": "Giron/M.",
+                    "names": "M.",
+                    "odds": "2.10"
+                },
+                {
+                    "namestring": "A. Goransson/R. Lindstedt",
+                    "lastname": "Goransson/R.",
+                    "names": "A.",
+                    "odds": "1.65"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP STOCKHOLM (SWE), DOUBLES - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/a-bublik-a-golubev-t-brkic-n-cacic-12251858",
+            "players": [
+                {
+                    "namestring": "A. Bublik/A. Golubev",
+                    "lastname": "Bublik/A.",
+                    "names": "A.",
+                    "odds": "2.10"
+                },
+                {
+                    "namestring": "T. Brkic/N. Cacic",
+                    "lastname": "Brkic/N.",
+                    "names": "T.",
+                    "odds": "1.65"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP STOCKHOLM (SWE), DOUBLES - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/t-fritz-t-paul-e-ruusuvuori-b-van-de-zandschulp-12251859",
+            "players": [
+                {
+                    "namestring": "T. Fritz/T. Paul",
+                    "lastname": "Fritz/T.",
+                    "names": "T.",
+                    "odds": "1.65"
+                },
+                {
+                    "namestring": "E. Ruusuvuori/B. Van De Zandschulp",
+                    "lastname": "Ruusuvuori/B.",
+                    "names": "E.",
+                    "odds": "2.10"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP STOCKHOLM (SWE), DOUBLES - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/a-u-h-qureshi-j-j-rojer-f-martin-h-nys-12251860",
+            "players": [
+                {
+                    "namestring": "A.-U.-H. Qureshi/J.-J. Rojer",
+                    "lastname": "Qureshi/J.-J.",
+                    "names": "A.-U.-H.",
+                    "odds": "2.10"
+                },
+                {
+                    "namestring": "F. Martin/H. Nys",
+                    "lastname": "Martin/H.",
+                    "names": "F.",
+                    "odds": "1.65"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP STOCKHOLM (SWE), DOUBLES - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/a-behar-g-escobar-k-skupski-n-skupski-12251861",
+            "players": [
+                {
+                    "namestring": "A. Behar/G. Escobar",
+                    "lastname": "Behar/G.",
+                    "names": "A.",
+                    "odds": "1.91"
+                },
+                {
+                    "namestring": "K. Skupski/N. Skupski",
+                    "lastname": "Skupski/N.",
+                    "names": "K.",
+                    "odds": "1.80"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP STOCKHOLM (SWE), DOUBLES - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/m-eriksson-e-ymer-m-middelkoop-a-mies-12251862",
+            "players": [
+                {
+                    "namestring": "M. Eriksson/E. Ymer",
+                    "lastname": "Eriksson/E.",
+                    "names": "M.",
+                    "odds": "4.33"
+                },
+                {
+                    "namestring": "M. Middelkoop/A. Mies",
+                    "lastname": "Middelkoop/A.",
+                    "names": "M.",
+                    "odds": "1.18"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP STOCKHOLM (SWE), DOUBLES - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/p-martinez-a-vavassori-t-puetz-m-venus-12251863",
+            "players": [
+                {
+                    "namestring": "P. Martinez/A. Vavassori",
+                    "lastname": "Martinez/A.",
+                    "names": "P.",
+                    "odds": "3.60"
+                },
+                {
+                    "namestring": "T. Puetz/M. Venus",
+                    "lastname": "Puetz/M.",
+                    "names": "T.",
+                    "odds": "1.25"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 15:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA - LINZ (AUT) - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/mona-barthel-ger-alison-riske-usa-12253186",
+            "players": [
+                {
+                    "namestring": "Mona Barthel",
+                    "lastname": "Barthel",
+                    "names": "Mona",
+                    "odds": "5.75"
+                },
+                {
+                    "namestring": "Alison Riske",
+                    "lastname": "Riske",
+                    "names": "Alison",
+                    "odds": "1.13"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 15:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA - LINZ (AUT) - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/clara-burel-fra-saisai-zheng-chn-12253192",
+            "players": [
+                {
+                    "namestring": "Clara Burel",
+                    "lastname": "Burel",
+                    "names": "Clara",
+                    "odds": "1.90"
+                },
+                {
+                    "namestring": "Saisai Zheng",
+                    "lastname": "Zheng",
+                    "names": "Saisai",
+                    "odds": "1.87"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 17:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA - LINZ (AUT) - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/fiona-ferro-fra-aliaksandra-sasnovich-blr-12253193",
+            "players": [
+                {
+                    "namestring": "Fiona Ferro",
+                    "lastname": "Ferro",
+                    "names": "Fiona",
+                    "odds": "2.35"
+                },
+                {
+                    "namestring": "Aliaksandra Sasnovich",
+                    "lastname": "Sasnovich",
+                    "names": "Aliaksandra",
+                    "odds": "1.57"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 19:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA - LINZ (AUT) - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/jasmine-paolini-ita-dayana-yastremska-ukr-12253191",
+            "players": [
+                {
+                    "namestring": "Jasmine Paolini",
+                    "lastname": "Paolini",
+                    "names": "Jasmine",
+                    "odds": "2.15"
+                },
+                {
+                    "namestring": "Dayana Yastremska",
+                    "lastname": "Yastremska",
+                    "names": "Dayana",
+                    "odds": "1.67"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA - LINZ (AUT) - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/alize-cornet-fra-julia-grabher-aut-12253185",
+            "players": [
+                {
+                    "namestring": "Alize Cornet",
+                    "lastname": "Cornet",
+                    "names": "Alize",
+                    "odds": "1.12"
+                },
+                {
+                    "namestring": "Julia Grabher",
+                    "lastname": "Grabher",
+                    "names": "Julia",
+                    "odds": "6.00"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA - LINZ (AUT) - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/greet-minnen-bel-oceane-dodin-fra-12253187",
+            "players": [
+                {
+                    "namestring": "Greet Minnen",
+                    "lastname": "Minnen",
+                    "names": "Greet",
+                    "odds": "1.70"
+                },
+                {
+                    "namestring": "Oceane Dodin",
+                    "lastname": "Dodin",
+                    "names": "Oceane",
+                    "odds": "2.10"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA - LINZ (AUT) - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/alison-van-uytvanck-bel-sinja-kraus-aut-12253188",
+            "players": [
+                {
+                    "namestring": "Alison Van Uytvanck",
+                    "lastname": "Van",
+                    "names": "Alison",
+                    "odds": "1.07"
+                },
+                {
+                    "namestring": "Sinja Kraus",
+                    "lastname": "Kraus",
+                    "names": "Sinja",
+                    "odds": "8.00"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA - LINZ (AUT) - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/sorana-cirstea-rou-kamilla-rakhimova-rus-12253189",
+            "players": [
+                {
+                    "namestring": "Sorana Cirstea",
+                    "lastname": "Cirstea",
+                    "names": "Sorana",
+                    "odds": "1.30"
+                },
+                {
+                    "namestring": "Kamilla Rakhimova",
+                    "lastname": "Rakhimova",
+                    "names": "Kamilla",
+                    "odds": "3.40"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA - LINZ (AUT) - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/anhelina-kalinina-ukr-martina-trevisan-ita-12253190",
+            "players": [
+                {
+                    "namestring": "Anhelina Kalinina",
+                    "lastname": "Kalinina",
+                    "names": "Anhelina",
+                    "odds": "1.34"
+                },
+                {
+                    "namestring": "Martina Trevisan",
+                    "lastname": "Trevisan",
+                    "names": "Martina",
+                    "odds": "3.20"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 17:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA - LINZ (AUT), DOUBLES",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/n-dzalamidze-k-rakhimova-v-heisen-k-zimmermann-12253859",
+            "players": [
+                {
+                    "namestring": "N. Dzalamidze/K. Rakhimova",
+                    "lastname": "Dzalamidze/K.",
+                    "names": "N.",
+                    "odds": "1.60"
+                },
+                {
+                    "namestring": "V. Heisen/K. Zimmermann",
+                    "lastname": "Heisen/K.",
+                    "names": "V.",
+                    "odds": "2.20"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 19:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA - LINZ (AUT), DOUBLES",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/i-khromacheva-l-marozava-a-raina-r-van-der-hoek-12253858",
+            "players": [
+                {
+                    "namestring": "I. Khromacheva/L. Marozava",
+                    "lastname": "Khromacheva/L.",
+                    "names": "I.",
+                    "odds": "1.48"
+                },
+                {
+                    "namestring": "A. Raina/R. Van der Hoek",
+                    "lastname": "Raina/R.",
+                    "names": "A.",
+                    "odds": "2.45"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 21:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA - LINZ (AUT), DOUBLES",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/j-lohoff-r-voracova-a-fomina-klotz-e-yashina-12253857",
+            "players": [
+                {
+                    "namestring": "J. Lohoff/R. Voracova",
+                    "lastname": "Lohoff/R.",
+                    "names": "J.",
+                    "odds": "1.53"
+                },
+                {
+                    "namestring": "A. Fomina-Klotz/E. Yashina",
+                    "lastname": "Fomina-Klotz/E.",
+                    "names": "A.",
+                    "odds": "2.35"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 21:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA - LINZ (AUT), DOUBLES",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/e-hozumi-t-mihalikova-o-kalashnikova-m-kato-12253864",
+            "players": [
+                {
+                    "namestring": "E. Hozumi/T. Mihalikova",
+                    "lastname": "Hozumi/T.",
+                    "names": "E.",
+                    "odds": "1.60"
+                },
+                {
+                    "namestring": "O. Kalashnikova/M. Kato",
+                    "lastname": "Kalashnikova/M.",
+                    "names": "O.",
+                    "odds": "2.20"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA - LINZ (AUT), DOUBLES",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/m-buzarnescu-k-piter-v-kuzmova-a-panova-12253860",
+            "players": [
+                {
+                    "namestring": "M. Buzarnescu/K. Piter",
+                    "lastname": "Buzarnescu/K.",
+                    "names": "M.",
+                    "odds": "2.20"
+                },
+                {
+                    "namestring": "V. Kuzmova/A. Panova",
+                    "lastname": "Kuzmova/A.",
+                    "names": "V.",
+                    "odds": "1.60"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA - LINZ (AUT), DOUBLES",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/x-wang-s-zheng-j-grabher-s-kraus-12253861",
+            "players": [
+                {
+                    "namestring": "X. Wang/S. Zheng",
+                    "lastname": "Wang/S.",
+                    "names": "X.",
+                    "odds": "1.07"
+                },
+                {
+                    "namestring": "J. Grabher/S. Kraus",
+                    "lastname": "Grabher/S.",
+                    "names": "J.",
+                    "odds": "7.00"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA - LINZ (AUT), DOUBLES",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/e-lechemia-i-neel-m-barthel-y-c-hsieh-12253863",
+            "players": [
+                {
+                    "namestring": "E. Lechemia/I. Neel",
+                    "lastname": "Lechemia/I.",
+                    "names": "E.",
+                    "odds": "1.57"
+                },
+                {
+                    "namestring": "M. Barthel/Y.-C. Hsieh",
+                    "lastname": "Barthel/Y.-C.",
+                    "names": "M.",
+                    "odds": "2.25"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 17:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA 125K - BUENOS AIRES (ARG) - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/anna-bondar-hun-diane-parry-fra-12254728",
+            "players": [
+                {
+                    "namestring": "Anna Bondar",
+                    "lastname": "Bondar",
+                    "names": "Anna",
+                    "odds": "1.83"
+                },
+                {
+                    "namestring": "Diane Parry",
+                    "lastname": "Parry",
+                    "names": "Diane",
+                    "odds": "1.95"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 15:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA 125K BUENOS AIRES (ARG) - DOUBLES - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/i-m-bara-e-gorgodze-m-carle-d-papamichail-12255362",
+            "players": [
+                {
+                    "namestring": "I. M. Bara/E. Gorgodze",
+                    "lastname": "M.",
+                    "names": "I.",
+                    "odds": "1.40"
+                },
+                {
+                    "namestring": "M. Carle/D. Papamichail",
+                    "lastname": "Carle/D.",
+                    "names": "M.",
+                    "odds": "2.75"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 20:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA 125K MIDLAND (USA) - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/madison-brengle-usa-robin-anderson-usa-12256305",
+            "players": [
+                {
+                    "namestring": "Madison Brengle",
+                    "lastname": "Brengle",
+                    "names": "Madison",
+                    "odds": "1.44"
+                },
+                {
+                    "namestring": "Robin Anderson",
+                    "lastname": "Anderson",
+                    "names": "Robin",
+                    "odds": "2.75"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 13:14",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA LINZ (AUT) - QUALIFICATION - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/ana-bogdan-rou-kateryna-kozlova-ukr-12253199",
+            "players": [
+                {
+                    "namestring": "Ana Bogdan",
+                    "lastname": "Bogdan",
+                    "names": "Ana",
+                    "odds": "2.40"
+                },
+                {
+                    "namestring": "Kateryna Kozlova",
+                    "lastname": "Kozlova",
+                    "names": "Kateryna",
+                    "odds": "1.53"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 13:14",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "WTA LINZ (AUT) - QUALIFICATION - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/xinyu-wang-chn-leonie-kung-sui-12253964",
+            "players": [
+                {
+                    "namestring": "Xinyu Wang",
+                    "lastname": "Wang",
+                    "names": "Xinyu",
+                    "odds": "1.05"
+                },
+                {
+                    "namestring": "Leonie Kung",
+                    "lastname": "Kung",
+                    "names": "Leonie",
+                    "odds": "8.25"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER - BRATISLAVA (SVK) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/stefano-travaglia-ita-zdenek-kolar-cze-12256850",
+            "players": [
+                {
+                    "namestring": "Stefano Travaglia",
+                    "lastname": "Travaglia",
+                    "names": "Stefano",
+                    "odds": "1.55"
+                },
+                {
+                    "namestring": "Zdenek Kolar",
+                    "lastname": "Kolar",
+                    "names": "Zdenek",
+                    "odds": "2.30"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER - BRATISLAVA (SVK) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/maximilian-marterer-ger-jurij-rodionov-aut-12256851",
+            "players": [
+                {
+                    "namestring": "Maximilian Marterer",
+                    "lastname": "Marterer",
+                    "names": "Maximilian",
+                    "odds": "1.30"
+                },
+                {
+                    "namestring": "Jurij Rodionov",
+                    "lastname": "Rodionov",
+                    "names": "Jurij",
+                    "odds": "3.20"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER - BRATISLAVA (SVK) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/illya-marchenko-ukr-liam-broady-gbr-12256852",
+            "players": [
+                {
+                    "namestring": "Illya Marchenko",
+                    "lastname": "Marchenko",
+                    "names": "Illya",
+                    "odds": "1.83"
+                },
+                {
+                    "namestring": "Liam Broady",
+                    "lastname": "Broady",
+                    "names": "Liam",
+                    "odds": "1.87"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER - BRATISLAVA (SVK) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/carlos-taberner-esp-frederico-ferreira-silva-por-12256853",
+            "players": [
+                {
+                    "namestring": "Carlos Taberner",
+                    "lastname": "Taberner",
+                    "names": "Carlos",
+                    "odds": "1.72"
+                },
+                {
+                    "namestring": "Frederico Ferreira Silva",
+                    "lastname": "Ferreira",
+                    "names": "Frederico",
+                    "odds": "2.00"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER - BRATISLAVA (SVK) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/christopher-o-connell-aus-filip-horansky-svk-12256854",
+            "players": [
+                {
+                    "namestring": "Christopher O'Connell",
+                    "lastname": "O'Connell",
+                    "names": "Christopher",
+                    "odds": "1.36"
+                },
+                {
+                    "namestring": "Filip Horansky",
+                    "lastname": "Horansky",
+                    "names": "Filip",
+                    "odds": "2.90"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER - BRATISLAVA (SVK) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/alex-molcan-svk-ramkumar-ramanathan-ind-12256855",
+            "players": [
+                {
+                    "namestring": "Alex Molcan",
+                    "lastname": "Molcan",
+                    "names": "Alex",
+                    "odds": "1.25"
+                },
+                {
+                    "namestring": "Ramkumar Ramanathan",
+                    "lastname": "Ramanathan",
+                    "names": "Ramkumar",
+                    "odds": "3.60"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER - BRATISLAVA (SVK) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/joao-sousa-por-altug-celikbilek-tur-12256856",
+            "players": [
+                {
+                    "namestring": "Joao Sousa",
+                    "lastname": "Sousa",
+                    "names": "Joao",
+                    "odds": "1.55"
+                },
+                {
+                    "namestring": "Altug Celikbilek",
+                    "lastname": "Celikbilek",
+                    "names": "Altug",
+                    "odds": "2.30"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER - BRATISLAVA (SVK) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/damir-dzumhur-bih-norbert-gombos-svk-12256857",
+            "players": [
+                {
+                    "namestring": "Damir Dzumhur",
+                    "lastname": "Dzumhur",
+                    "names": "Damir",
+                    "odds": "2.15"
+                },
+                {
+                    "namestring": "Norbert Gombos",
+                    "lastname": "Gombos",
+                    "names": "Norbert",
+                    "odds": "1.62"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER - BRATISLAVA (SVK) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/gilles-simon-fra-kacper-zuk-pol-12256858",
+            "players": [
+                {
+                    "namestring": "Gilles Simon",
+                    "lastname": "Simon",
+                    "names": "Gilles",
+                    "odds": "2.05"
+                },
+                {
+                    "namestring": "Kacper Zuk",
+                    "lastname": "Zuk",
+                    "names": "Kacper",
+                    "odds": "1.70"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER - BRATISLAVA (SVK) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/sergiy-stakhovsky-ukr-jiri-lehecka-cze-12256859",
+            "players": [
+                {
+                    "namestring": "Sergiy Stakhovsky",
+                    "lastname": "Stakhovsky",
+                    "names": "Sergiy",
+                    "odds": "3.20"
+                },
+                {
+                    "namestring": "Jiri Lehecka",
+                    "lastname": "Lehecka",
+                    "names": "Jiri",
+                    "odds": "1.30"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER - BRATISLAVA (SVK) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/lukas-pokorny-svk-tallon-griekspoor-ned-12256860",
+            "players": [
+                {
+                    "namestring": "Lukas Pokorny",
+                    "lastname": "Pokorny",
+                    "names": "Lukas",
+                    "odds": "7.75"
+                },
+                {
+                    "namestring": "Tallon Griekspoor",
+                    "lastname": "Griekspoor",
+                    "names": "Tallon",
+                    "odds": "1.05"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 01:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER - GUAYAQUIL (ECU) - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/alejandro-tabilo-chi-jesper-de-jong-ned-12256370",
+            "players": [
+                {
+                    "namestring": "Alejandro Tabilo",
+                    "lastname": "Tabilo",
+                    "names": "Alejandro",
+                    "odds": "1.55"
+                },
+                {
+                    "namestring": "Jesper De Jong",
+                    "lastname": "De",
+                    "names": "Jesper",
+                    "odds": "2.30"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 18:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER CHARLOTTESVILLE (USA) - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/stefan-kozlov-usa-aleksandar-vukic-aus-12255638",
+            "players": [
+                {
+                    "namestring": "Stefan Kozlov",
+                    "lastname": "Kozlov",
+                    "names": "Stefan",
+                    "odds": "1.87"
+                },
+                {
+                    "namestring": "Aleksandar Vukic",
+                    "lastname": "Vukic",
+                    "names": "Aleksandar",
+                    "odds": "1.83"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 15:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER KNOXVILLE (USA) - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/tennys-sandgren-usa-peter-polansky-can-12256614",
+            "players": [
+                {
+                    "namestring": "Tennys Sandgren",
+                    "lastname": "Sandgren",
+                    "names": "Tennys",
+                    "odds": "1.26"
+                },
+                {
+                    "namestring": "Peter Polansky",
+                    "lastname": "Polansky",
+                    "names": "Peter",
+                    "odds": "3.50"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 15:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER KNOXVILLE (USA) - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/yosuke-watanuki-jpn-bjorn-fratangelo-usa-12256615",
+            "players": [
+                {
+                    "namestring": "Yosuke Watanuki",
+                    "lastname": "Watanuki",
+                    "names": "Yosuke",
+                    "odds": "2.30"
+                },
+                {
+                    "namestring": "Bjorn Fratangelo",
+                    "lastname": "Fratangelo",
+                    "names": "Bjorn",
+                    "odds": "1.55"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 15:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER KNOXVILLE (USA) - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/vasek-pospisil-can-christopher-eubanks-usa-12256616",
+            "players": [
+                {
+                    "namestring": "Vasek Pospisil",
+                    "lastname": "Pospisil",
+                    "names": "Vasek",
+                    "odds": "1.55"
+                },
+                {
+                    "namestring": "Christopher Eubanks",
+                    "lastname": "Eubanks",
+                    "names": "Christopher",
+                    "odds": "2.30"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 15:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER KNOXVILLE (USA) - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/go-soeda-jpn-malek-jaziri-tun-12256617",
+            "players": [
+                {
+                    "namestring": "Go Soeda",
+                    "lastname": "Soeda",
+                    "names": "Go",
+                    "odds": "1.55"
+                },
+                {
+                    "namestring": "Malek Jaziri",
+                    "lastname": "Jaziri",
+                    "names": "Malek",
+                    "odds": "2.30"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 15:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER KNOXVILLE (USA) - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/jason-jung-tpe-jason-kubler-aus-12256618",
+            "players": [
+                {
+                    "namestring": "Jason Jung",
+                    "lastname": "Jung",
+                    "names": "Jason",
+                    "odds": "2.05"
+                },
+                {
+                    "namestring": "Jason Kubler",
+                    "lastname": "Kubler",
+                    "names": "Jason",
+                    "odds": "1.70"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 15:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER KNOXVILLE (USA) - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/christian-harrison-usa-j-j-wolf-usa-12256619",
+            "players": [
+                {
+                    "namestring": "Christian Harrison",
+                    "lastname": "Harrison",
+                    "names": "Christian",
+                    "odds": "2.90"
+                },
+                {
+                    "namestring": "J.J. Wolf",
+                    "lastname": "Wolf",
+                    "names": "J.J.",
+                    "odds": "1.36"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 15:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER KNOXVILLE (USA) - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/yasutaka-uchiyama-jpn-michael-mmoh-usa-12256621",
+            "players": [
+                {
+                    "namestring": "Yasutaka Uchiyama",
+                    "lastname": "Uchiyama",
+                    "names": "Yasutaka",
+                    "odds": "3.20"
+                },
+                {
+                    "namestring": "Michael Mmoh",
+                    "lastname": "Mmoh",
+                    "names": "Michael",
+                    "odds": "1.30"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 15:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER KNOXVILLE (USA) - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/tatsuma-ito-jpn-mitchell-krueger-usa-12256622",
+            "players": [
+                {
+                    "namestring": "Tatsuma Ito",
+                    "lastname": "Ito",
+                    "names": "Tatsuma",
+                    "odds": "2.75"
+                },
+                {
+                    "namestring": "Mitchell Krueger",
+                    "lastname": "Krueger",
+                    "names": "Mitchell",
+                    "odds": "1.40"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 15:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER KNOXVILLE (USA) - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/jack-sock-usa-aleksandar-kovacevic-usa-12256623",
+            "players": [
+                {
+                    "namestring": "Jack Sock",
+                    "lastname": "Sock",
+                    "names": "Jack",
+                    "odds": "1.48"
+                },
+                {
+                    "namestring": "Aleksandar Kovacevic",
+                    "lastname": "Kovacevic",
+                    "names": "Aleksandar",
+                    "odds": "2.50"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 15:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER KNOXVILLE (USA) - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/prajnesh-gunneswaran-ind-mikael-torpegaard-den-12256624",
+            "players": [
+                {
+                    "namestring": "Prajnesh Gunneswaran",
+                    "lastname": "Gunneswaran",
+                    "names": "Prajnesh",
+                    "odds": "2.00"
+                },
+                {
+                    "namestring": "Mikael Torpegaard",
+                    "lastname": "Torpegaard",
+                    "names": "Mikael",
+                    "odds": "1.72"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 15:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER KNOXVILLE (USA) - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/blaz-rola-slo-thai-son-kwiatkowski-usa-12256625",
+            "players": [
+                {
+                    "namestring": "Blaz Rola",
+                    "lastname": "Rola",
+                    "names": "Blaz",
+                    "odds": "2.00"
+                },
+                {
+                    "namestring": "Thai-Son Kwiatkowski",
+                    "lastname": "Kwiatkowski",
+                    "names": "Thai-Son",
+                    "odds": "1.72"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 15:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER KNOXVILLE (USA) - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/adam-walton-aus-daniel-altmaier-ger-12256626",
+            "players": [
+                {
+                    "namestring": "Adam Walton",
+                    "lastname": "Walton",
+                    "names": "Adam",
+                    "odds": "7.00"
+                },
+                {
+                    "namestring": "Daniel Altmaier",
+                    "lastname": "Altmaier",
+                    "names": "Daniel",
+                    "odds": "1.07"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 14:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER MONTEVIDEO (URU) - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/federico-coria-arg-andrea-collarini-arg-12256376",
+            "players": [
+                {
+                    "namestring": "Federico Coria",
+                    "lastname": "Coria",
+                    "names": "Federico",
+                    "odds": "1.55"
+                },
+                {
+                    "namestring": "Andrea Collarini",
+                    "lastname": "Collarini",
+                    "names": "Andrea",
+                    "odds": "2.30"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 14:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER MONTEVIDEO (URU) - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/marcelo-tomas-barrios-vera-chi-matheus-pucinelli-12256377",
+            "players": [
+                {
+                    "namestring": "Marcelo Tomas Barrios Vera",
+                    "lastname": "Tomas",
+                    "names": "Marcelo",
+                    "odds": "1.72"
+                },
+                {
+                    "namestring": "Matheus Pucinelli De Almeida",
+                    "lastname": "Pucinelli",
+                    "names": "Matheus",
+                    "odds": "2.00"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 14:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER MONTEVIDEO (URU) - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/thiago-agustin-tirante-arg-santiago-fa-rodriguez-12256378",
+            "players": [
+                {
+                    "namestring": "Thiago Agustin Tirante",
+                    "lastname": "Agustin",
+                    "names": "Thiago",
+                    "odds": "1.28"
+                },
+                {
+                    "namestring": "Santiago Fa Rodriguez Taverna",
+                    "lastname": "Fa",
+                    "names": "Santiago",
+                    "odds": "3.30"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 14:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER MONTEVIDEO (URU) - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/franco-roncadelli-uru-juan-pablo-varillas-per-12256379",
+            "players": [
+                {
+                    "namestring": "Franco Roncadelli",
+                    "lastname": "Roncadelli",
+                    "names": "Franco",
+                    "odds": "10.00"
+                },
+                {
+                    "namestring": "Juan Pablo Varillas",
+                    "lastname": "Pablo",
+                    "names": "Juan",
+                    "odds": "1.02"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 14:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER MONTEVIDEO (URU) - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/alejandro-tabilo-chi-timofey-skatov-kaz-12256380",
+            "players": [
+                {
+                    "namestring": "Alejandro Tabilo",
+                    "lastname": "Tabilo",
+                    "names": "Alejandro",
+                    "odds": "1.34"
+                },
+                {
+                    "namestring": "Timofey Skatov",
+                    "lastname": "Skatov",
+                    "names": "Timofey",
+                    "odds": "3.00"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 14:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER MONTEVIDEO (URU) - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/francisco-llanes-uru-hugo-dellien-bol-12256381",
+            "players": [
+                {
+                    "namestring": "Francisco Llanes",
+                    "lastname": "Llanes",
+                    "names": "Francisco",
+                    "odds": "10.00"
+                },
+                {
+                    "namestring": "Hugo Dellien",
+                    "lastname": "Dellien",
+                    "names": "Hugo",
+                    "odds": "1.02"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 14:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER MONTEVIDEO (URU) - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/francisco-cerundolo-arg-juan-ignacio-londero-arg-12256382",
+            "players": [
+                {
+                    "namestring": "Francisco Cerundolo",
+                    "lastname": "Cerundolo",
+                    "names": "Francisco",
+                    "odds": "1.48"
+                },
+                {
+                    "namestring": "Juan Ignacio Londero",
+                    "lastname": "Ignacio",
+                    "names": "Juan",
+                    "odds": "2.50"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 14:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER MONTEVIDEO (URU) - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/hernan-casanova-arg-felipe-meligeni-rodrigues-al-12256383",
+            "players": [
+                {
+                    "namestring": "Hernan Casanova",
+                    "lastname": "Casanova",
+                    "names": "Hernan",
+                    "odds": "2.70"
+                },
+                {
+                    "namestring": "Felipe Meligeni Rodrigues Alves",
+                    "lastname": "Meligeni",
+                    "names": "Felipe",
+                    "odds": "1.40"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 14:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER MONTEVIDEO (URU) - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/juan-pablo-ficovich-arg-martin-cuevas-uru-12256384",
+            "players": [
+                {
+                    "namestring": "Juan Pablo Ficovich",
+                    "lastname": "Pablo",
+                    "names": "Juan",
+                    "odds": "1.34"
+                },
+                {
+                    "namestring": "Martin Cuevas",
+                    "lastname": "Cuevas",
+                    "names": "Martin",
+                    "odds": "3.00"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 14:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER MONTEVIDEO (URU) - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/renzo-olivo-arg-thiago-monteiro-bra-12256385",
+            "players": [
+                {
+                    "namestring": "Renzo Olivo",
+                    "lastname": "Olivo",
+                    "names": "Renzo",
+                    "odds": "3.60"
+                },
+                {
+                    "namestring": "Thiago Monteiro",
+                    "lastname": "Monteiro",
+                    "names": "Thiago",
+                    "odds": "1.25"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 14:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER MONTEVIDEO (URU) - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/tomas-martin-etcheverry-arg-genaro-alberto-olivi-12256386",
+            "players": [
+                {
+                    "namestring": "Tomas Martin Etcheverry",
+                    "lastname": "Martin",
+                    "names": "Tomas",
+                    "odds": "1.18"
+                },
+                {
+                    "namestring": "Genaro Alberto Olivieri",
+                    "lastname": "Alberto",
+                    "names": "Genaro",
+                    "odds": "4.25"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 14:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER MONTEVIDEO (URU) - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/guido-andreozzi-arg-pedro-cachin-arg-12256387",
+            "players": [
+                {
+                    "namestring": "Guido Andreozzi",
+                    "lastname": "Andreozzi",
+                    "names": "Guido",
+                    "odds": "2.15"
+                },
+                {
+                    "namestring": "Pedro Cachin",
+                    "lastname": "Cachin",
+                    "names": "Pedro",
+                    "odds": "1.62"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 16:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER MONTEVIDEO (URU) - QUALIFICATION - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/ignacio-carou-uru-facundo-juarez-arg-12256037",
+            "players": [
+                {
+                    "namestring": "Ignacio Carou",
+                    "lastname": "Carou",
+                    "names": "Ignacio",
+                    "odds": "5.00"
+                },
+                {
+                    "namestring": "Facundo Juarez",
+                    "lastname": "Juarez",
+                    "names": "Facundo",
+                    "odds": "1.12"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 16:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER MONTEVIDEO (URU) - QUALIFICATION - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/gilbert-klier-junior-bra-dario-acosta-uru-12256038",
+            "players": [
+                {
+                    "namestring": "Gilbert Klier Junior",
+                    "lastname": "Klier",
+                    "names": "Gilbert",
+                    "odds": "1.01"
+                },
+                {
+                    "namestring": "Dario Acosta",
+                    "lastname": "Acosta",
+                    "names": "Dario",
+                    "odds": "11.00"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 16:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER MONTEVIDEO (URU) - QUALIFICATION - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/nicolas-alvarez-varona-esp-rafael-matos-bra-12256039",
+            "players": [
+                {
+                    "namestring": "Nicolas Alvarez Varona",
+                    "lastname": "Alvarez",
+                    "names": "Nicolas",
+                    "odds": "1.16"
+                },
+                {
+                    "namestring": "Rafael Matos",
+                    "lastname": "Matos",
+                    "names": "Rafael",
+                    "odds": "4.33"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 18:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER MONTEVIDEO (URU) - QUALIFICATION - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/roberto-cid-subervi-dom-mariano-navone-arg-12256041",
+            "players": [
+                {
+                    "namestring": "Roberto Cid Subervi",
+                    "lastname": "Cid",
+                    "names": "Roberto",
+                    "odds": "1.70"
+                },
+                {
+                    "namestring": "Mariano Navone",
+                    "lastname": "Navone",
+                    "names": "Mariano",
+                    "odds": "2.00"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 18:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER MONTEVIDEO (URU) - QUALIFICATION - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/nicolas-alvarez-per-tomas-lipovsek-puches-slo-12256042",
+            "players": [
+                {
+                    "namestring": "Nicolas Alvarez",
+                    "lastname": "Alvarez",
+                    "names": "Nicolas",
+                    "odds": "1.40"
+                },
+                {
+                    "namestring": "Tomas Lipovsek Puches",
+                    "lastname": "Lipovsek",
+                    "names": "Tomas",
+                    "odds": "2.65"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 20:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER MONTEVIDEO (URU) - QUALIFICATION - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/juan-martin-fumeaux-buenaventura-uru-francisco-c-12256043",
+            "players": [
+                {
+                    "namestring": "Juan Martin Fumeaux Buenaventura",
+                    "lastname": "Martin",
+                    "names": "Juan",
+                    "odds": "8.00"
+                },
+                {
+                    "namestring": "Francisco Comesana",
+                    "lastname": "Comesana",
+                    "names": "Francisco",
+                    "odds": "1.04"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 20:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER MONTEVIDEO (URU) - QUALIFICATION - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/felipe-martinez-sarrasague-arg-luciano-darderi-i-12256044",
+            "players": [
+                {
+                    "namestring": "Felipe Martinez Sarrasague",
+                    "lastname": "Martinez",
+                    "names": "Felipe",
+                    "odds": "7.25"
+                },
+                {
+                    "namestring": "Luciano Darderi",
+                    "lastname": "Darderi",
+                    "names": "Luciano",
+                    "odds": "1.05"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 14:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER ROANNE (FRA) - QUALIFICATION - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/arthur-fils-fra-georgii-kravchenko-ukr-12254392",
+            "players": [
+                {
+                    "namestring": "Arthur Fils",
+                    "lastname": "Fils",
+                    "names": "Arthur",
+                    "odds": "1.72"
+                },
+                {
+                    "namestring": "Georgii Kravchenko",
+                    "lastname": "Kravchenko",
+                    "names": "Georgii",
+                    "odds": "1.95"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 14:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER ROANNE (FRA) - QUALIFICATION - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/michael-geerts-bel-luca-vanni-ita-12254393",
+            "players": [
+                {
+                    "namestring": "Michael Geerts",
+                    "lastname": "Geerts",
+                    "names": "Michael",
+                    "odds": "1.40"
+                },
+                {
+                    "namestring": "Luca Vanni",
+                    "lastname": "Vanni",
+                    "names": "Luca",
+                    "odds": "2.65"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 16:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER ROANNE (FRA) - QUALIFICATION - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/vladyslav-orlov-ukr-thomaz-bellucci-bra-12254394",
+            "players": [
+                {
+                    "namestring": "Vladyslav Orlov",
+                    "lastname": "Orlov",
+                    "names": "Vladyslav",
+                    "odds": "1.57"
+                },
+                {
+                    "namestring": "Thomaz Bellucci",
+                    "lastname": "Bellucci",
+                    "names": "Thomaz",
+                    "odds": "2.20"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 16:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER ROANNE (FRA) - QUALIFICATION - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/filip-cristian-jianu-rou-gabriel-debru-fra-12254395",
+            "players": [
+                {
+                    "namestring": "Filip Cristian Jianu",
+                    "lastname": "Cristian",
+                    "names": "Filip",
+                    "odds": "1.10"
+                },
+                {
+                    "namestring": "Gabriel Debru",
+                    "lastname": "Debru",
+                    "names": "Gabriel",
+                    "odds": "5.50"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 12:44",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ATP CHALLENGER TENERIFE (ESP) - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/tallon-griekspoor-ned-feliciano-lopez-esp-12254519",
+            "players": [
+                {
+                    "namestring": "Tallon Griekspoor",
+                    "lastname": "Griekspoor",
+                    "names": "Tallon",
+                    "odds": "1.42"
+                },
+                {
+                    "namestring": "Feliciano Lopez",
+                    "lastname": "Lopez",
+                    "names": "Feliciano",
+                    "odds": "2.65"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 12:44",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - BRATISLAVA (SVK) - QUALIFICATION - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/duje-ajdukovic-cro-martin-krumich-cze-12254994",
+            "players": [
+                {
+                    "namestring": "Duje Ajdukovic",
+                    "lastname": "Ajdukovic",
+                    "names": "Duje",
+                    "odds": "1.33"
+                },
+                {
+                    "namestring": "Martin Krumich",
+                    "lastname": "Krumich",
+                    "names": "Martin",
+                    "odds": "3.00"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 14:45",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - BRATISLAVA (SVK) - QUALIFICATION - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/peter-nad-svk-shintaro-mochizuki-jpn-12254995",
+            "players": [
+                {
+                    "namestring": "Peter Nad",
+                    "lastname": "Nad",
+                    "names": "Peter",
+                    "odds": "6.50"
+                },
+                {
+                    "namestring": "Shintaro Mochizuki",
+                    "lastname": "Mochizuki",
+                    "names": "Shintaro",
+                    "odds": "1.07"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 14:45",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - BRATISLAVA (SVK) - QUALIFICATION - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/zsombor-piros-hun-patrik-niklas-salminen-fin-12254996",
+            "players": [
+                {
+                    "namestring": "Zsombor Piros",
+                    "lastname": "Piros",
+                    "names": "Zsombor",
+                    "odds": "1.26"
+                },
+                {
+                    "namestring": "Patrik Niklas-Salminen",
+                    "lastname": "Niklas-Salminen",
+                    "names": "Patrik",
+                    "odds": "3.40"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 16:45",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - BRATISLAVA (SVK) - QUALIFICATION - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/ergi-kirkin-tur-milos-karol-svk-12254997",
+            "players": [
+                {
+                    "namestring": "Ergi Kirkin",
+                    "lastname": "Kirkin",
+                    "names": "Ergi",
+                    "odds": "1.30"
+                },
+                {
+                    "namestring": "Milos Karol",
+                    "lastname": "Karol",
+                    "names": "Milos",
+                    "odds": "3.10"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 16:45",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - BRATISLAVA (SVK) - QUALIFICATION - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/alexandar-lazarov-bul-alexander-shevchenko-rus-12254998",
+            "players": [
+                {
+                    "namestring": "Alexandar Lazarov",
+                    "lastname": "Lazarov",
+                    "names": "Alexandar",
+                    "odds": "2.65"
+                },
+                {
+                    "namestring": "Alexander Shevchenko",
+                    "lastname": "Shevchenko",
+                    "names": "Alexander",
+                    "odds": "1.40"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 15:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - KNOXVILLE (USA) - QUALIFICATION - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/jc-aragone-usa-dennis-novikov-usa-12256245",
+            "players": [
+                {
+                    "namestring": "JC Aragone",
+                    "lastname": "Aragone",
+                    "names": "JC",
+                    "odds": "1.57"
+                },
+                {
+                    "namestring": "Dennis Novikov",
+                    "lastname": "Novikov",
+                    "names": "Dennis",
+                    "odds": "2.20"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 15:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - KNOXVILLE (USA) - QUALIFICATION - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/robert-galloway-usa-mukund-sasikumar-ind-12256246",
+            "players": [
+                {
+                    "namestring": "Robert Galloway",
+                    "lastname": "Galloway",
+                    "names": "Robert",
+                    "odds": "3.25"
+                },
+                {
+                    "namestring": "Mukund Sasikumar",
+                    "lastname": "Sasikumar",
+                    "names": "Mukund",
+                    "odds": "1.28"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 17:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - KNOXVILLE (USA) - QUALIFICATION - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/alexis-galarneau-can-martin-damm-usa-12256247",
+            "players": [
+                {
+                    "namestring": "Alexis Galarneau",
+                    "lastname": "Galarneau",
+                    "names": "Alexis",
+                    "odds": "1.50"
+                },
+                {
+                    "namestring": "Martin Damm",
+                    "lastname": "Damm",
+                    "names": "Martin",
+                    "odds": "2.35"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 17:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - KNOXVILLE (USA) - QUALIFICATION - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/govind-nanda-usa-gijs-brouwer-ned-12256248",
+            "players": [
+                {
+                    "namestring": "Govind Nanda",
+                    "lastname": "Nanda",
+                    "names": "Govind",
+                    "odds": "1.83"
+                },
+                {
+                    "namestring": "Gijs Brouwer",
+                    "lastname": "Brouwer",
+                    "names": "Gijs",
+                    "odds": "1.83"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 19:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - KNOXVILLE (USA) - QUALIFICATION - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/blaise-bicknell-usa-rinky-hijikata-aus-12256249",
+            "players": [
+                {
+                    "namestring": "Blaise Bicknell",
+                    "lastname": "Bicknell",
+                    "names": "Blaise",
+                    "odds": "4.75"
+                },
+                {
+                    "namestring": "Rinky Hijikata",
+                    "lastname": "Hijikata",
+                    "names": "Rinky",
+                    "odds": "1.14"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 19:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - KNOXVILLE (USA) - QUALIFICATION - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/aidan-mchugh-gbr-arjun-kadhe-ind-12256250",
+            "players": [
+                {
+                    "namestring": "Aidan Mchugh",
+                    "lastname": "Mchugh",
+                    "names": "Aidan",
+                    "odds": "1.05"
+                },
+                {
+                    "namestring": "Arjun Kadhe",
+                    "lastname": "Kadhe",
+                    "names": "Arjun",
+                    "odds": "7.25"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 21:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - KNOXVILLE (USA) - QUALIFICATION - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/nick-chappell-usa-johannus-monday-gbr-12256251",
+            "players": [
+                {
+                    "namestring": "Nick Chappell",
+                    "lastname": "Chappell",
+                    "names": "Nick",
+                    "odds": "1.42"
+                },
+                {
+                    "namestring": "Johannus Monday",
+                    "lastname": "Monday",
+                    "names": "Johannus",
+                    "odds": "2.60"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - ORTISEI (ITA) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/oscar-otte-ger-roberto-marcora-ita-12255405",
+            "players": [
+                {
+                    "namestring": "Oscar Otte",
+                    "lastname": "Otte",
+                    "names": "Oscar",
+                    "odds": "1.25"
+                },
+                {
+                    "namestring": "Roberto Marcora",
+                    "lastname": "Marcora",
+                    "names": "Roberto",
+                    "odds": "3.60"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - ORTISEI (ITA) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/gian-marco-moroni-ita-marc-andrea-huesler-sui-12255406",
+            "players": [
+                {
+                    "namestring": "Gian Marco Moroni",
+                    "lastname": "Marco",
+                    "names": "Gian",
+                    "odds": "2.25"
+                },
+                {
+                    "namestring": "Marc-Andrea Huesler",
+                    "lastname": "Huesler",
+                    "names": "Marc-Andrea",
+                    "odds": "1.57"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - ORTISEI (ITA) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/emilio-gomez-ecu-jack-draper-gbr-12255407",
+            "players": [
+                {
+                    "namestring": "Emilio Gomez",
+                    "lastname": "Gomez",
+                    "names": "Emilio",
+                    "odds": "2.10"
+                },
+                {
+                    "namestring": "Jack Draper",
+                    "lastname": "Draper",
+                    "names": "Jack",
+                    "odds": "1.65"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - ORTISEI (ITA) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/dominic-stephan-stricker-sui-matteo-viola-ita-12255408",
+            "players": [
+                {
+                    "namestring": "Dominic Stephan Stricker",
+                    "lastname": "Stephan",
+                    "names": "Dominic",
+                    "odds": "1.28"
+                },
+                {
+                    "namestring": "Matteo Viola",
+                    "lastname": "Viola",
+                    "names": "Matteo",
+                    "odds": "3.30"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - ORTISEI (ITA) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/nicola-kuhn-esp-federico-gaio-ita-12255409",
+            "players": [
+                {
+                    "namestring": "Nicola Kuhn",
+                    "lastname": "Kuhn",
+                    "names": "Nicola",
+                    "odds": "2.40"
+                },
+                {
+                    "namestring": "Federico Gaio",
+                    "lastname": "Gaio",
+                    "names": "Federico",
+                    "odds": "1.50"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - ORTISEI (ITA) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/fernando-verdasco-esp-vitaliy-sachko-ukr-12255410",
+            "players": [
+                {
+                    "namestring": "Fernando Verdasco",
+                    "lastname": "Verdasco",
+                    "names": "Fernando",
+                    "odds": "1.91"
+                },
+                {
+                    "namestring": "Vitaliy Sachko",
+                    "lastname": "Sachko",
+                    "names": "Vitaliy",
+                    "odds": "1.80"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - ORTISEI (ITA) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/borna-gojo-cro-daniel-masur-ger-12255411",
+            "players": [
+                {
+                    "namestring": "Borna Gojo",
+                    "lastname": "Gojo",
+                    "names": "Borna",
+                    "odds": "2.00"
+                },
+                {
+                    "namestring": "Daniel Masur",
+                    "lastname": "Masur",
+                    "names": "Daniel",
+                    "odds": "1.72"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - ORTISEI (ITA) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/mirza-basic-bih-evgeny-karlovskiy-rus-12255412",
+            "players": [
+                {
+                    "namestring": "Mirza Basic",
+                    "lastname": "Basic",
+                    "names": "Mirza",
+                    "odds": "1.75"
+                },
+                {
+                    "namestring": "Evgeny Karlovskiy",
+                    "lastname": "Karlovskiy",
+                    "names": "Evgeny",
+                    "odds": "1.95"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - ORTISEI (ITA) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/luca-nardi-ita-quentin-halys-fra-12255413",
+            "players": [
+                {
+                    "namestring": "Luca Nardi",
+                    "lastname": "Nardi",
+                    "names": "Luca",
+                    "odds": "2.90"
+                },
+                {
+                    "namestring": "Quentin Halys",
+                    "lastname": "Halys",
+                    "names": "Quentin",
+                    "odds": "1.36"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - ORTISEI (ITA) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/marius-copil-rou-alexander-weis-ita-12255414",
+            "players": [
+                {
+                    "namestring": "Marius Copil",
+                    "lastname": "Copil",
+                    "names": "Marius",
+                    "odds": "1.14"
+                },
+                {
+                    "namestring": "Alexander Weis",
+                    "lastname": "Weis",
+                    "names": "Alexander",
+                    "odds": "5.00"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - ORTISEI (ITA) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/chun-hsin-tseng-tpe-roberto-quiroz-ecu-12255415",
+            "players": [
+                {
+                    "namestring": "Chun-Hsin Tseng",
+                    "lastname": "Tseng",
+                    "names": "Chun-Hsin",
+                    "odds": "1.26"
+                },
+                {
+                    "namestring": "Roberto Quiroz",
+                    "lastname": "Quiroz",
+                    "names": "Roberto",
+                    "odds": "3.50"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "08-11-2021 10:00",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - ORTISEI (ITA) - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/tim-van-rijthoven-ned-maxime-cressy-usa-12255416",
+            "players": [
+                {
+                    "namestring": "Tim Van Rijthoven",
+                    "lastname": "Van",
+                    "names": "Tim",
+                    "odds": "2.25"
+                },
+                {
+                    "namestring": "Maxime Cressy",
+                    "lastname": "Cressy",
+                    "names": "Maxime",
+                    "odds": "1.57"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 14:45",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - ORTISEI (ITA) - QUALIFICATION - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/samuel-vincent-ruggeri-ita-filippo-baldi-ita-12254247",
+            "players": [
+                {
+                    "namestring": "Samuel Vincent Ruggeri",
+                    "lastname": "Vincent",
+                    "names": "Samuel",
+                    "odds": "1.62"
+                },
+                {
+                    "namestring": "Filippo Baldi",
+                    "lastname": "Baldi",
+                    "names": "Filippo",
+                    "odds": "2.10"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 14:45",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - ORTISEI (ITA) - QUALIFICATION - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/nerman-fatic-bih-david-pichler-aut-12254248",
+            "players": [
+                {
+                    "namestring": "Nerman Fatic",
+                    "lastname": "Fatic",
+                    "names": "Nerman",
+                    "odds": "1.36"
+                },
+                {
+                    "namestring": "David Pichler",
+                    "lastname": "Pichler",
+                    "names": "David",
+                    "odds": "2.80"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 16:45",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - ORTISEI (ITA) - QUALIFICATION - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/patric-prinoth-ita-aldin-setkic-bih-12254249",
+            "players": [
+                {
+                    "namestring": "Patric Prinoth",
+                    "lastname": "Prinoth",
+                    "names": "Patric",
+                    "odds": "7.25"
+                },
+                {
+                    "namestring": "Aldin Setkic",
+                    "lastname": "Setkic",
+                    "names": "Aldin",
+                    "odds": "1.05"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 16:45",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP - ORTISEI (ITA) - QUALIFICATION - HARD COURT - INDOOR",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/alexander-erler-aut-alexander-cozbinov-mda-12254250",
+            "players": [
+                {
+                    "namestring": "Alexander Erler",
+                    "lastname": "Erler",
+                    "names": "Alexander",
+                    "odds": "1.42"
+                },
+                {
+                    "namestring": "Alexander Cozbinov",
+                    "lastname": "Cozbinov",
+                    "names": "Alexander",
+                    "odds": "2.60"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 16:45",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "CHALLENGER ATP BERGAMO (ITA) - HARDCOURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/holger-vitus-nodskov-rune-den-cem-ilkel-tur-12255821",
+            "players": [
+                {
+                    "namestring": "Holger Vitus Nodskov Rune",
+                    "lastname": "Vitus",
+                    "names": "Holger",
+                    "odds": "1.22"
+                },
+                {
+                    "namestring": "Cem Ilkel",
+                    "lastname": "Ilkel",
+                    "names": "Cem",
+                    "odds": "3.75"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 17:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ITF FAYETTEVILLE (USA) - MEN - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/alfredo-perez-usa-henry-patten-gbr-12255299",
+            "players": [
+                {
+                    "namestring": "Alfredo Perez",
+                    "lastname": "Perez",
+                    "names": "Alfredo",
+                    "odds": "2.00"
+                },
+                {
+                    "namestring": "Henry Patten",
+                    "lastname": "Patten",
+                    "names": "Henry",
+                    "odds": "1.70"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 13:45",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ITF MEN - BRASILIA (BRA) - CLAY",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/gustavo-heide-bra-oscar-jose-gutierrez-bra-12255766",
+            "players": [
+                {
+                    "namestring": "Gustavo Heide",
+                    "lastname": "Heide",
+                    "names": "Gustavo",
+                    "odds": "1.62"
+                },
+                {
+                    "namestring": "Oscar Jose Gutierrez",
+                    "lastname": "Jose",
+                    "names": "Oscar",
+                    "odds": "2.10"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 16:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ITF MEN - ITHACA (USA) - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/cannon-kingsley-usa-luke-johnson-gbr-12255208",
+            "players": [
+                {
+                    "namestring": "Cannon Kingsley",
+                    "lastname": "Kingsley",
+                    "names": "Cannon",
+                    "odds": "1.57"
+                },
+                {
+                    "namestring": "Luke Johnson",
+                    "lastname": "Johnson",
+                    "names": "Luke",
+                    "odds": "2.20"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 15:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ITF MEN - SAINT-DIZIER (FRA) - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/dane-sweeny-aus-li-tu-aus-12255177",
+            "players": [
+                {
+                    "namestring": "Dane Sweeny",
+                    "lastname": "Sweeny",
+                    "names": "Dane",
+                    "odds": "2.80"
+                },
+                {
+                    "namestring": "Li Tu",
+                    "lastname": "Tu",
+                    "names": "Li",
+                    "odds": "1.36"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 14:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ITF MEN - VILLERS LES NANCY (FRA) - QUALIFICATION - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/joris-moret-fra-antoine-vincent-fra-12256924",
+            "players": [
+                {
+                    "namestring": "Joris Moret",
+                    "lastname": "Moret",
+                    "names": "Joris",
+                    "odds": "2.10"
+                },
+                {
+                    "namestring": "Antoine Vincent",
+                    "lastname": "Vincent",
+                    "names": "Antoine",
+                    "odds": "1.60"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 14:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ITF MEN - VILLERS LES NANCY (FRA) - QUALIFICATION - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/jing-long-weng-ned-leo-doukhan-fra-12256925",
+            "players": [
+                {
+                    "namestring": "Jing Long Weng",
+                    "lastname": "Long",
+                    "names": "Jing",
+                    "odds": "2.00"
+                },
+                {
+                    "namestring": "Leo Doukhan",
+                    "lastname": "Doukhan",
+                    "names": "Leo",
+                    "odds": "1.67"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 14:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ITF MEN - VILLERS LES NANCY (FRA) - QUALIFICATION - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/jordan-betesh-fra-lilian-breut-fra-12256926",
+            "players": [
+                {
+                    "namestring": "Jordan Betesh",
+                    "lastname": "Betesh",
+                    "names": "Jordan",
+                    "odds": "4.50"
+                },
+                {
+                    "namestring": "Lilian Breut",
+                    "lastname": "Breut",
+                    "names": "Lilian",
+                    "odds": "1.14"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 16:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ITF MEN - VILLERS LES NANCY (FRA) - QUALIFICATION - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/tom-biston-fra-tom-schonenberg-ger-12256927",
+            "players": [
+                {
+                    "namestring": "Tom Biston",
+                    "lastname": "Biston",
+                    "names": "Tom",
+                    "odds": "4.40"
+                },
+                {
+                    "namestring": "Tom Schonenberg",
+                    "lastname": "Schonenberg",
+                    "names": "Tom",
+                    "odds": "1.15"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 16:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ITF MEN - VILLERS LES NANCY (FRA) - QUALIFICATION - HARD",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/amaury-raynel-fra-alen-moritz-hodzic-ger-12256928",
+            "players": [
+                {
+                    "namestring": "Amaury Raynel",
+                    "lastname": "Raynel",
+                    "names": "Amaury",
+                    "odds": "1.36"
+                },
+                {
+                    "namestring": "Alen Moritz Hodzic",
+                    "lastname": "Moritz",
+                    "names": "Alen",
+                    "odds": "2.75"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 16:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ITF WOMEN - ORLANDO (USA) - CLAY COURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/allie-kiick-usa-emma-navarro-usa-12255736",
+            "players": [
+                {
+                    "namestring": "Allie Kiick",
+                    "lastname": "Kiick",
+                    "names": "Allie",
+                    "odds": "2.65"
+                },
+                {
+                    "namestring": "Emma Navarro",
+                    "lastname": "Navarro",
+                    "names": "Emma",
+                    "odds": "1.40"
+                }
+            ]
+        },
+        {
+            "sport": "tennis",
+            "date_time": "07-11-2021 16:15",
+            "date_time_format": "%d-%m-%Y %H:%M",
+            "site": "sportingbet",
+            "tournament": "ITF WOMEN - ORLANDO (USA) - DOUBLES - CLAY COURT",
+            "link": "https://sports.sportingbet.co.za/en/sports/events/a-s-rogers-c-rosca-m-partaud-m-j-portillo-ramire-12255746",
+            "players": [
+                {
+                    "namestring": "A. S. Rogers/C. Rosca",
+                    "lastname": "S.",
+                    "names": "A.",
+                    "odds": "1.80"
+                },
+                {
+                    "namestring": "M. Partaud/M. J. Portillo Ramirez",
+                    "lastname": "Partaud/M.",
+                    "names": "M.",
+                    "odds": "1.83"
+                }
+            ]
+        }
+    ]
+}
